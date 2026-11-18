@@ -1,0 +1,34 @@
+{
+  "musicDir": ".",
+  "importDir": "music",
+  "port": 3001,
+  "host": "0.0.0.0",
+  "extensions": [
+    ".mp3",
+    ".flac",
+    ".m4a",
+    ".aac",
+    ".ogg",
+    ".opus",
+    ".wav",
+    ".wma",
+    ".ape",
+    ".aiff",
+    ".aif",
+    ".alac",
+    ".mp4",
+    ".m4b"
+  ],
+  "excludeDirs": [
+    "node_modules",
+    ".git",
+    ".cache",
+    "dist",
+    ".vite",
+    "server",
+    "web",
+    "$RECYCLE.BIN",
+    "System Volume Information",
+    "@eaDir"
+  ]
+}
